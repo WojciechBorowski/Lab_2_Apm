@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laby_android_2</string>
+    <string name="sortowanie_przez_wstawianie">Sortowanie przez wstawianie</string>
+    <string name="sortowanie_b_belkowe">Sortowanie bąbelkowe</string>
+    <string name="podaj_ciag_1_2_3">Podaj ciag: 1,2,3...</string>
+</resources>
